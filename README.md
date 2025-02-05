@@ -27,7 +27,7 @@ Welcome to my animated website project! This website is built using **HTML**, **
 
 ## 🚀 **Demo**
 
-Check out the live demo of the animated website [here](#) (https://m-hassanjavaid.github.io/Sidcup-family-golf-web/).
+Check out the live demo of the animated website [here](https://m-hassanjavaid.github.io/Sidcup-family-golf-web/).
 
 ---
 
