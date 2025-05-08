@@ -624,7 +624,7 @@ footer::before{
 
     .cards{
         width: 80%;
-        height: 300px;
+        height: 470px;
     }
 
     #nav{
@@ -678,6 +678,10 @@ footer::before{
 
     #scroller h4{
         font-size: 3rem;
+    }
+
+    #page1 p {
+        width: 90%;
     }
 }
 
